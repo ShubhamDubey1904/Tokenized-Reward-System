@@ -1,0 +1,6 @@
+**/node_modules/
+frontend/.env
+web3/.env
+frontend/.next/
+artifacts/
+cache/
